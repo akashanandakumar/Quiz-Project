@@ -1,5 +1,5 @@
-  * Quiz Project is one of my practice to improve my skills on front-end web development.
-  * By creating this webpage,am able to understand more on javascript functionalities and much more.
+  * The Quiz Project is one of my practices to improve my skills on front-end web development.
+  * By creating this webpage,I am able to understand more on javascript functionalities and much more.
   
   Languages : HTML, CSS, JAVASCRIPT
 
